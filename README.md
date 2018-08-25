@@ -1,3 +1,3 @@
-# Natural-Language-Processing-With-Python
+# NLP Chronicles
 
-This repository contains Natural Language Processing tasks done with Python
+This repository contains the related code for the article series "NLP Chronicles".
